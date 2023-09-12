@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Estrcutura_y_Organización_de_Datos
 ## Ingeniería en Tecnologías de la Información y Comunicaciones.
 ### Nidia Vanessa Chávez Rendón
@@ -35,3 +36,8 @@ Este repositorio es para la materia de Estructura y Organización de Datos.
   <li>Métodos de búsqueda.</li>
   <li>Recuperación de datos.</li>
 </ol>
+=======
+# Estrcutura_y_organizacion_de_datos
+#Nidia Vanessa Chavez Rendon
+#Estrcutura y Organizacion de Datos
+>>>>>>> 96258c28477bffa93a0bc121f395550aaad0cb12
