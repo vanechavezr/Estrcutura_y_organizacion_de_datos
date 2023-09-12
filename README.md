@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Estrcutura_y_Organización_de_Datos
+# Estructura_y_Organización_de_Datos
 ## Ingeniería en Tecnologías de la Información y Comunicaciones.
 ### Nidia Vanessa Chávez Rendón
 
